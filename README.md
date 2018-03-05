@@ -11,3 +11,12 @@
 - [Scikit-learn](http://datacamp-community.s3.amazonaws.com/5433fa18-9f43-44cc-b228-74672efcd116) Module with implementations of ML algorithms. 
 - [Linear Algebra]( http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) Linear Algebra.
 - [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf) Module to work with n-dimensional arrays.
+
+## News:
+
+-  [Blog OpenAI](https://blog.openai.com/).
+-  [AI Resources](http://airesources.org/).
+-  [AI Topics](https://aitopics.org/search).
+-  [Reddit ML](https://www.reddit.com/r/MachineLearning/).
+-  [Deep Mind](https://deepmind.com/blog/).
+
