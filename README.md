@@ -34,7 +34,7 @@ http://karpathy.github.io/2016/05/31/rl/
 https://ai.intel.com/demystifying-deep-reinforcement-learning/
 https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html
 http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/
-
+https://github.com/bshaw19/Crypto_Trader
 
 
 
@@ -55,6 +55,9 @@ ML:
 https://sebastianraschka.com/notebooks/ml-notebooks.html
 s http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
 
+Decision Trees:
+https://charleshsliao.wordpress.com/2017/05/20/decision-tree-in-python-with-graphviz-to-visualize/
+https://charleshsliao.wordpress.com/2017/06/09/nba-winning-estimator-with-decision-tree-in-python/
 
 YOLO:
 https://pjreddie.com/darknet/yolo/
@@ -143,7 +146,7 @@ https://medium.freecodecamp.org/recognizing-traffic-lights-with-deep-learning-23
 http://colah.github.io/
 https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0
 https://medium.com/@karpathy/software-2-0-a64152b37c35
-
+https://towardsdatascience.com/family-fun-with-deepfakes-or-how-i-got-my-wife-onto-the-tonight-show-a4454775c011
 
 
 Papers:
@@ -152,6 +155,7 @@ https://devblogs.nvidia.com/deep-learning-self-driving-cars/
 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 https://arxiv.org/pdf/1606.04474.pdf
 http://www.arxiv-sanity.com/
+http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
 
 Kaggle:
 https://www.kaggle.com/c/titanic
@@ -166,5 +170,63 @@ https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRR
 https://www.data.gov/
 https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 https://github.com/awesomedata/awesome-public-datasets
+
+
+
+
+
+
+
+
+
+
+https://charleshsliao.wordpress.com/category/python/
+https://realpython.com/blog/python/python-web-scraping-practical-introduction/
+https://realpython.com/blog/python/modern-web-automation-with-python-and-selenium/
+https://www.youtube.com/watch?v=F1ka6a13S9I
+https://github.com/mgbellemare/Arcade-Learning-Environment
+https://github.com/openai/roboschool
+https://github.com/deepmind/dm_control
+https://github.com/facebookresearch/ELF
+https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/
+https://arxiv.org/pdf/1706.00764.pdf
+http://proceedings.mlr.press/v37/schaul15.pdf
+https://arxiv.org/pdf/1707.04175.pdf
+http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/
+https://www.youtube.com/watch?v=Ol0-c9OE3VQ
+file:///home/avsthiago/Downloads/110533.pdf
+https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf
+https://dspace.mit.edu/openaccess-disseminate/1721.1/110533
+https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf
+https://medium.com/stanford-ai-for-healthcare/its-a-no-brainer-deep-learning-for-brain-mr-images-f60116397472
+https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+http://inventwithpython.com/cracking/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://www.youtube.com/watch?v=7uhMemi2mFc
+https://sandipanweb.wordpress.com/2018/01/27/image-colorization-using-optimization-in-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://github.com/Ekultek/WhatWaf?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://github.com/satwikkansal/wtfPython?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://www.ynonperek.com/2017/09/21/python-exercises/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://blog.patricktriest.com/analyzing-cryptocurrencies-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://blog.patricktriest.com/police-data-python/
+https://blog.patricktriest.com/titanic-machine-learning-in-python/
+https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
+https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f
+http://blog.otoro.net/2017/10/29/visual-evolution-strategies/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://github.com/facebookresearch/Detectron?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://github.com/deepfakes/faceswap?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+https://github.com/marcotcr/lime?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+
+
+
+
+
+
+
+
+
+
+
+
 
 
