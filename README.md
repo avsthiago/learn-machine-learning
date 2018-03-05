@@ -28,7 +28,20 @@
 -   [Basic Linux](https://visie.mautic.visie.com.br/curso-gratis-de-terminal-do-linux) Treinamento informal da Visie.
 
 ##### Python:
--[Practical Introduction to Web Scraping in Python](https://realpython.com/blog/python/python-web-scraping-practical-introduction/).
+- [Learn python3 in Y minutes ](https://learnxinyminutes.com/docs/python3/).
+- [Practical Introduction to Web Scraping in Python](https://realpython.com/blog/python/python-web-scraping-practical-introduction/).
+- [Cracking Codes with Python](http://inventwithpython.com/cracking/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more).
+- [API With Django](https://simpleisbetterthancomplex.com/tutorial/2018/02/03/how-to-use-restful-apis-with-django.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more).
+- [Creating a Reddit Bot to Detect Spam - Python Reddit API Wrapper (PRAW) tutorial p.4](https://www.youtube.com/watch?v=7uhMemi2mFc).
+- [Image Colorization Using Optimization in Python](https://sandipanweb.wordpress.com/2018/01/27/image-colorization-using-optimization-in-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more).
+- [WTFpython](https://github.com/satwikkansal/wtfPython?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) A collection of surprising Python snippets and lesser-known features.
+- [Python Exercises](https://www.ynonperek.com/2017/09/21/python-exercises/?).
+- [ANALYZING CRYPTOCURRENCY MARKETS USING PYTHON](https://blog.patricktriest.com/analyzing-cryptocurrencies-python/).
+- [EXPLORING UNITED STATES POLICING DATA USING PYTHON](https://blog.patricktriest.com/police-data-python/).
+- [WOULD YOU SURVIVE THE TITANIC? A GUIDE TO MACHINE LEARNING IN PYTHON](https://blog.patricktriest.com/titanic-machine-learning-in-python/).
+- [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f).
+- [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
+
 
 ##### Numpy:
 - [All of the Linear Algebra Operations that You Need to Use in NumPy for Machine Learning.](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
@@ -53,37 +66,48 @@
 - [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html).
 - [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/).
 - [Q-Learning Based Cryptocurrency Trader and Portfolio Optimizer for the Poloniex Exchange](https://github.com/bshaw19/Crypto_Trader).
-- 
+- [Inverse Reinforcement Learning pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more).
+- [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/).
 
 ###### DRF - Environments:
 - [DeepMind Lab](https://github.com/deepmind/lab) A customisable 3D platform for agent-based AI research.
 - [OpenAI Gym](https://gym.openai.com/) Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
 - [OpenAI Universe](https://blog.openai.com/universe/) A software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications.
 - [Arcade-Learning-Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) The Arcade Learning Environment (ALE) -- a platform for AI research.
-- 
+- [DeepMind Control Suite and Package](https://github.com/deepmind/dm_control)The DeepMind Control Suite and Package.
+- [ELF](https://github.com/facebookresearch/ELF) An End-To-End, Lightweight and Flexible Platform for Game Research (Facebook).
 
 
 ##### Recurrent Neural Network (RNN):
 - [Creating A Text Generator](https://chunml.github.io/ChunML.github.io/project/Creating-Text-Generator-Using-Recurrent-Neural-Network/).
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+- [min-char-rnn.py](https://gist.github.com/karpathy/d4dee566867f8291f086) Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy.
 
 ##### Long short-term Memory (LSTM):
 
 - [Anyone Can Learn To Code an LSTM-RNN in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/).
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 - [LSTMs for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) TensorFlow.
+- [Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
+- [LSTM in numpy](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/) Let's calculate LSTMCell in numpy manually.
 
 ##### Convolutional Neural Networks (CNN):
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/) YOLO.
 - [How to train YOLOv2 to detect custom objects](https://timebutt.github.io/static/how-to-train-yolov2-to-detect-custom-objects/) YOLO.
 - [Training With Your Own Dataset on Caffe](https://chunml.github.io/ChunML.github.io/project/Training-Your-Own-Data-On-Caffe/) Caffe.
 - [Deep learning tutorial on Caffe technology : basic commands, Python and C++ code.](http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html) Caffe.
+- [It’s a no-brainer! Deep learning for brain MR images](https://medium.com/stanford-ai-for-healthcare/its-a-no-brainer-deep-learning-for-brain-mr-images-f60116397472).
+- [Understanding Hinton’s Capsule Networks. Part I: Intuition.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b).
+- [Detectron](https://github.com/facebookresearch/Detectron?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+- [FaceSwap](https://github.com/deepfakes/faceswap?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) Non official project based on original /r/Deepfakes thread.
+- :star: [lime](https://github.com/marcotcr/lime?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) Lime: Explaining the predictions of any machine learning classifier
+- [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks.
 
 ##### Decision Trees:
 - [Decision Tree in Python, with Graphviz to Visualize](https://charleshsliao.wordpress.com/2017/05/20/decision-tree-in-python-with-graphviz-to-visualize/).
 - [NBA Winning Estimator with Decision Tree in Python](https://charleshsliao.wordpress.com/2017/06/09/nba-winning-estimator-with-decision-tree-in-python/).
 - [Predicting customer churn with scikit-learn](http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html).
-- 
+
 ##### Misc:
 
 - [Deep Learning Resources](https://sebastianraschka.com/deep-learning-resources.html) A collection of standalone TensorFlow and PyTorch models in Jupyter Notebooks.
@@ -95,7 +119,10 @@
 - [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607) Tips to debug your NN.
 - [Recognizing Traffic Lights With Deep Learning](https://medium.freecodecamp.org/recognizing-traffic-lights-with-deep-learning-23dae23287cc) How is to participate in a competition.
 - [Colah's blog](http://colah.github.io/) Amazing explanations of hard concepts in DL.
-
+- [Enabling Continual Learning in Neural Networks](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) Enable to learn many games without forget the last one.
+- [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f).
+- [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)Curated list of Machine Learning, NLP, Vision Project Ideas.
+- [Awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## Youtube:
 - [Deeplearning.ai Andrew Ng](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) Channel.
@@ -114,6 +141,9 @@
 - [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) Video.
 - [Quadcopter Navigation in the Forest using Deep Neural Networks](https://www.youtube.com/watch?v=umRdt3zGgpU) Video.
 - [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I).
+- [Comparing human learning with the best RL algorithms](https://www.youtube.com/watch?v=Ol0-c9OE3VQ) Also a goos starting channel.
+- [CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks 1](https://www.youtube.com/watch?v=i94OvYb6noo) Great!
+
 
 ## Courses:
 - [CS109 Data Science](http://cs109.github.io/2015/pages/videos.html) Harvard.
@@ -128,14 +158,14 @@
 ## Books:
 - [Reinforcement Learning: An Introduction, Second Edition (Draft)](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html).
 - [Deep Learning (Goodfellow)](http://www.deeplearningbook.org).
--
+
 
 ## Datasets:
 - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0) Various datasets in a google sheets document.
 - [The home of the U.S. Government’s open data](https://www.data.gov/).
 - [Answer about datasets Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public).
 - [Awesome Datasets GitHub](https://github.com/awesomedata/awesome-public-datasets) A topic-centric list of high-quality open datasets in public domains.
-- 
+
 
 ## Papers:
 - [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842v1.pdf) GoogLeNet.
@@ -145,6 +175,14 @@
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) Arxiv Sanity Preserver.
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) Black box?
 - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf).
+- [Hyperparameter Optimization: A Spectral Approach](https://arxiv.org/pdf/1706.00764.pdf).
+- [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/pdf/1707.04175.pdf).
+- [Learning to Learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) Berkley Artificial inteligence Research.
+- [Optimization Based Controller Design and Implementation for the Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf).
+- [Optimization-based locomotion planning, estimation, and control design for the atlas humanoid robot](https://dspace.mit.edu/openaccess-disseminate/1721.1/110533) Boston Dinamics insights.
+- [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning](https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning.pdf) Better and simple than Deep Q-Learning Nature.
+
+
 
 ## Kaggle
 
