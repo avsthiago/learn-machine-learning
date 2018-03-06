@@ -45,6 +45,7 @@
 
 ##### Numpy:
 - [All of the Linear Algebra Operations that You Need to Use in NumPy for Machine Learning.](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
+- [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/101-numpy-exercises-python/).
 
 ##### Linear Regression:
 
